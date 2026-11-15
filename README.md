@@ -1,3 +1,29 @@
+# Awesome-Nano-Banana-images
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Nano Banana 与 Nano Banana Pro 生成的有趣创意图像与提示词合集。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img src="images/logo.jpg"  alt="输入图片"> 
